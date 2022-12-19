@@ -1,0 +1,7 @@
+psutil
+scapy
+nmap
+time
+platform
+#for windows
+wmi
